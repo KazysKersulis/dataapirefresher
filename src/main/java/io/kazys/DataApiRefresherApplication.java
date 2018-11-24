@@ -1,4 +1,4 @@
-package io.kays.dataapirefresher;
+package io.kazys;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

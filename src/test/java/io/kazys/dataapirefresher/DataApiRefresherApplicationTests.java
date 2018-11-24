@@ -1,4 +1,4 @@
-package io.kays.dataapirefresher;
+package io.kazys.dataapirefresher;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
